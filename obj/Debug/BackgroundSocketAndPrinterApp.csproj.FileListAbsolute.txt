@@ -1,0 +1,12 @@
+c:\users\mkm\documents\visual studio 2015\Projects\BackgroundSocketAndPrinterApp\BackgroundSocketAndPrinterApp\bin\Debug\BackgroundSocketAndPrinterApp.exe.config
+c:\users\mkm\documents\visual studio 2015\Projects\BackgroundSocketAndPrinterApp\BackgroundSocketAndPrinterApp\bin\Debug\BackgroundSocketAndPrinterApp.exe
+c:\users\mkm\documents\visual studio 2015\Projects\BackgroundSocketAndPrinterApp\BackgroundSocketAndPrinterApp\bin\Debug\BackgroundSocketAndPrinterApp.pdb
+c:\users\mkm\documents\visual studio 2015\Projects\BackgroundSocketAndPrinterApp\BackgroundSocketAndPrinterApp\obj\Debug\BackgroundSocketAndPrinterApp.exe
+c:\users\mkm\documents\visual studio 2015\Projects\BackgroundSocketAndPrinterApp\BackgroundSocketAndPrinterApp\obj\Debug\BackgroundSocketAndPrinterApp.pdb
+C:\Users\MKM\documents\visual studio 2015\Projects\BackgroundSocketAndPrinterApp\BackgroundSocketAndPrinterApp\obj\Debug\BackgroundSocketAndPrinterApp.csprojResolveAssemblyReference.cache
+C:\Users\MKM\documents\visual studio 2015\Projects\BackgroundSocketAndPrinterApp\BackgroundSocketAndPrinterApp\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\MKM\documents\visual studio 2015\Projects\BackgroundSocketAndPrinterApp\BackgroundSocketAndPrinterApp\bin\Debug\vtortola.WebSockets.Deflate.dll
+C:\Users\MKM\documents\visual studio 2015\Projects\BackgroundSocketAndPrinterApp\BackgroundSocketAndPrinterApp\bin\Debug\vtortola.WebSockets.dll
+C:\Users\MKM\documents\visual studio 2015\Projects\BackgroundSocketAndPrinterApp\BackgroundSocketAndPrinterApp\bin\Debug\vtortola.WebSockets.Rfc6455.dll
+C:\Users\MKM\documents\visual studio 2015\Projects\BackgroundSocketAndPrinterApp\BackgroundSocketAndPrinterApp\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\MKM\documents\visual studio 2015\Projects\BackgroundSocketAndPrinterApp\BackgroundSocketAndPrinterApp\bin\Debug\System.Json.dll
